@@ -1,0 +1,9 @@
+.~lock*
+fp-info-cache
+*-bak
+_autosave*
+*-backups
+\#*
+*kicad_prl
+*xml
+*svg2shenzhen-cache/
