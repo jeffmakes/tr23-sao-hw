@@ -143,4 +143,5 @@
   (lib (name "Transistor_Power_Module")(type "KiCad")(uri "${KIPRJMOD}/../../lib/kicad-footprints/Transistor_Power_Module.pretty")(options "")(descr ""))
   (lib (name "Valve")(type "KiCad")(uri "${KIPRJMOD}/../../lib/kicad-footprints/Valve.pretty")(options "")(descr ""))
   (lib (name "Varistor")(type "KiCad")(uri "${KIPRJMOD}/../../lib/kicad-footprints/Varistor.pretty")(options "")(descr ""))
+  (lib (name "tr23-sao")(type "KiCad")(uri "${KIPRJMOD}/tr23-sao.pretty")(options "")(descr ""))
 )
