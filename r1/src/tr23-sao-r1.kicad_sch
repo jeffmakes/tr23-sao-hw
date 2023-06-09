@@ -572,7 +572,7 @@
         )
         (pin power_in line (at 0 -11.43 90) (length 2.54)
           (name "EP" (effects (font (size 1.27 1.27))))
-          (number "EP" (effects (font (size 1.27 1.27))))
+          (number "9" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -1290,7 +1290,7 @@
     (pin "6" (uuid 218c1a95-8f2f-441c-ba5c-6ddc2e4493c4))
     (pin "7" (uuid 7a0abcc5-8c52-4708-a26a-18a3bb96ebb0))
     (pin "8" (uuid aa165d11-216f-47f2-859c-33d98825b9c0))
-    (pin "EP" (uuid fc18490d-5f0e-4c3b-8050-2e5d7200b865))
+    (pin "9" (uuid 77659090-2dde-40d1-82c6-b99a52e24d6b))
     (instances
       (project "tr23-sao-r1"
         (path "/ebbc0897-281e-43d6-8886-1cdab47d4cf2"
