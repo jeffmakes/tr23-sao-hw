@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Troopers 23 Shitty Add-On")
+    (rev "r1")
+    (company "Monad Gottfried Ltd. 2023")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x03_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 1.27 5.08 0)
@@ -1090,7 +1096,7 @@
   )
 
   (symbol (lib_id "Device:LED_RABG") (at 115.57 100.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 3f15434b-214d-4cbd-9da0-8b0b06a992a9)
     (property "Reference" "D1" (at 125.095 102.235 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1124,7 +1130,7 @@
   )
 
   (symbol (lib_id "Device:LED_RABG") (at 166.37 100.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4b331d08-822b-4aa6-ae56-4a9ac4e9ffda)
     (property "Reference" "D3" (at 175.895 102.235 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1208,7 +1214,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 76.2 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 656c9acd-53f9-4df1-a251-a7804a544ca9)
     (property "Reference" "C1" (at 72.39 92.71 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1234,7 +1240,7 @@
   )
 
   (symbol (lib_id "Device:LED_RABG") (at 191.77 100.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 7d1cf3ac-1771-4f5c-afb0-fa4e8fe5f31a)
     (property "Reference" "D4" (at 201.295 102.235 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1280,6 +1286,15 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 83.82 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "Kinetic Technologies" (at 86.36 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" " KTD2052AEVAA-TR " (at 86.36 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser" " 389-KTD2052AEVAA-TR " (at 86.36 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 842e4611-7d93-4750-b2c7-1f13dd0c97f4))
@@ -1401,7 +1416,7 @@
   )
 
   (symbol (lib_id "j_Display:Display_dummy") (at 39.37 33.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aae48d65-5dcf-4fab-aaa2-2c103299eeec)
     (property "Reference" "GRAPHIC1" (at 49.53 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1450,7 +1465,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 93.98 58.42 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid da591c94-57de-4252-bd8a-9da53be0e95e)
     (property "Reference" "J1" (at 82.6516 48.5648 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1535,7 +1550,7 @@
   )
 
   (symbol (lib_id "Connector_Generic_Shielded:Conn_01x06_Shielded") (at 134.62 54.61 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5a753b8-0eec-4486-a272-fe9c7f918094)
     (property "Reference" "J2" (at 134.62 43.18 0)
       (effects (font (size 1.27 1.27)))
@@ -1566,7 +1581,7 @@
   )
 
   (symbol (lib_id "Device:LED_RABG") (at 140.97 100.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid fb666f95-d93c-4541-9600-649a82598e51)
     (property "Reference" "D2" (at 150.495 102.235 0)
       (effects (font (size 1.27 1.27)) (justify right))
