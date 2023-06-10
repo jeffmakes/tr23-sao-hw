@@ -1332,7 +1332,7 @@
     (property "Reference" "U1" (at 88.3159 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" " KTD2052A" (at 92.71 102.87 0)
+    (property "Value" "KTD2052A" (at 92.71 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm" (at 83.82 118.11 0)
