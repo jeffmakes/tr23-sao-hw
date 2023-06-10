@@ -13893,7 +13893,7 @@
     (fp_text reference "U1" (at 0.15 -1.9 180) (layer "B.SilkS") (tstamp fefc7512-0818-4a09-a9d9-04c37f84fec9)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value "~" (at 0 -1.95 180) (layer "B.Fab") hide (tstamp c83ed86d-c694-4cce-8be5-ced46b7a1d00)
+    (fp_text value " KTD2052A" (at 0 -1.95 180) (layer "B.Fab") hide (tstamp c83ed86d-c694-4cce-8be5-ced46b7a1d00)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1 -1.11) (end -1 -1.11)
