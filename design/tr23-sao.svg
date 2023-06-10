@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="5.6568542"
      inkscape:cx="230.87036"
-     inkscape:cy="198.96217"
+     inkscape:cy="199.13895"
      inkscape:window-width="1880"
      inkscape:window-height="2058"
      inkscape:window-x="0"
@@ -260,7 +260,7 @@
      id="g4617"
      style="display:inline"><g
        id="g16043"
-       transform="matrix(-1,0,0,1,135.97905,0.12716184)"><path
+       transform="matrix(-1,0,0,1,137.53303,0.12716184)"><path
          d="m 63.917451,55.517731 c -1.323757,0 -2.402657,-1.078899 -2.402657,-2.402656 0,-1.323758 1.0789,-2.402658 2.402657,-2.402658 1.323758,0 2.402658,1.0789 2.402658,2.402658 0,1.323757 -1.0789,2.402656 -2.402658,2.402656 z m 0,-4.422725 c -1.109507,0 -2.020068,0.902909 -2.020068,2.020069 0,1.109508 0.902909,2.020069 2.020068,2.020069 1.109508,0 2.020069,-0.902912 2.020069,-2.020069 0,-1.109508 -0.902909,-2.020069 -2.020069,-2.020069 z"
          id="path64161"
          style="fill:#000000;stroke-width:0.264583" /><path
@@ -286,14 +286,14 @@
          id="path64211"
          style="fill:#000000;stroke-width:0.264583" /></g><text
        xml:space="preserve"
-       transform="matrix(-0.35066407,0,0,0.35066407,157.03774,-9.079292)"
+       transform="matrix(-0.35066407,0,0,0.35066407,158.72088,-9.079292)"
        id="text4813"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4376px;line-height:95%;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4815);display:inline;fill:#000000;stroke:none;stroke-width:0.839005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"><tspan
          x="224.05078"
          y="163.76387"
-         id="tspan23402"><tspan
+         id="tspan33410"><tspan
            style="font-weight:600;-inkscape-font-specification:'Exo 2.0, Semi-Bold'"
-           id="tspan23400">TROOPERS 23</tspan></tspan></text><text
+           id="tspan33408">TROOPERS 23</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(-0.26458333,0,0,0.26458333,146.71154,18.235212)"
        id="text4813-1"
@@ -304,15 +304,15 @@
        y="0"><tspan
          x="254.10902"
          y="162.51831"
-         id="tspan23406"><tspan
+         id="tspan33414"><tspan
            style="font-weight:600;-inkscape-font-specification:'Exo 2.0, Semi-Bold'"
-           id="tspan23404">Jeff Gough @jeffmakes
+           id="tspan33412">Jeff Gough @jeffmakes
 </tspan></tspan><tspan
          x="239.37704"
          y="171.35999"
-         id="tspan23410"><tspan
+         id="tspan33418"><tspan
            style="font-weight:600;-inkscape-font-specification:'Exo 2.0, Semi-Bold'"
-           id="tspan23408">Malte Heinzelmann @hnzlmnn</tspan></tspan></text><text
+           id="tspan33416">Malte Heinzelmann @hnzlmnn</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(-0.26458333,0,0,0.26458333,146.8948,24.205843)"
        id="text4813-1-9"
@@ -323,9 +323,9 @@
        y="0"><tspan
          x="272.50903"
          y="162.51831"
-         id="tspan23414"><tspan
+         id="tspan33422"><tspan
            style="font-weight:600;-inkscape-font-specification:'Exo 2.0, Semi-Bold'"
-           id="tspan23412">Monad 2023</tspan></tspan></text></g><g
+           id="tspan33420">Monad 2023</tspan></tspan></text></g><g
      inkscape:label="F.Cu.disable"
      inkscape:groupmode="layer"
      id="g4619"
